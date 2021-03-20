@@ -1,4 +1,4 @@
-# SistemPakar_1184101
+# Sistem Pakar_1184101_Mauliddhia Restu Shafina
 
 # Depth First Searching
 Merupakan salah satu algoritma yang digunakan untuk pencarian jalur. Caranya berawal dari node root atau akar 
