@@ -12,7 +12,7 @@ apabila dirun dari (4) maka hasilnya yaitu 4,5,0,1,2,3
 apabila dirun dari (5) maka hasilnya yaitu 5,0,1,2,3,4
 apabila dirun dari (0) maka hasilnya yaitu 0,1,2,3,4,5
 
-#Breadth Fisrt Searching
+# Breadth Fisrt Searching
 Merupakan salah satu algoritma yang digunakan untuk pencarian jalur. Bedanya, cara BFS ini mengecek per level bukan 
 mengecek kedalaman tiap level. Gambaran pada BFS_1184101 ini saya buat sama dengan DFS_1184101. Pada BFS_1184101 hasilnya
 akan seperti berikut ini :
