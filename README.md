@@ -16,9 +16,9 @@ Pada DFS_1184101 ini, hasilnya seperti berikut :
 Merupakan salah satu algoritma yang digunakan untuk pencarian jalur. Bedanya, cara BFS ini mengecek per level bukan 
 mengecek kedalaman tiap level. Gambaran pada BFS_1184101 ini saya buat sama dengan DFS_1184101. Pada BFS_1184101 hasilnya
 akan seperti berikut ini :
-apabila dirun dari (1) maka hasilnya yaitu 1,2,3,0,4,5
-apabila dirun dari (2) maka hasilnya yaitu 2,3,4,5,0,1
-apabila dirun dari (3) maka hasilnya yaitu 3,2,4,5,0,1
-apabila dirun dari (4) maka hasilnya yaitu 4,5,0,1,2,3
-apabila dirun dari (5) maka hasilnya yaitu 5,0,1,2,3,4
-apabila dirun dari (0) maka hasilnya yaitu 0,1,2,3,4,5
+1. Apabila dirun dari (1) maka hasilnya yaitu 1,2,3,0,4,5
+2. Apabila dirun dari (2) maka hasilnya yaitu 2,3,4,5,0,1
+3. Apabila dirun dari (3) maka hasilnya yaitu 3,2,4,5,0,1
+4. Apabila dirun dari (4) maka hasilnya yaitu 4,5,0,1,2,3
+5. Apabila dirun dari (5) maka hasilnya yaitu 5,0,1,2,3,4
+6. Apabila dirun dari (0) maka hasilnya yaitu 0,1,2,3,4,5
