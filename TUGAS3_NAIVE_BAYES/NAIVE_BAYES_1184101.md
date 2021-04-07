@@ -1,6 +1,6 @@
 # Sistem Pakar_1184101_Mauliddhia Restu Shafina
 
-#Naive Bayes
+# Naive Bayes
 Untuk tugas kali ini membahas mengenai Naive Bayes. Memiliki fungsi untuk mengklasifikasi peluang terjadinya sesuatu berdasarkan data yang dimiliki. Pada kali ini, membahas mengenai wine. Untuk datasetnya langsung import dari sklearn dan memiliki 13 fitur diantaranya adalah alcohol, malic_acid, ash, alcalinity_of_ash, magnesium, total_phenols, flavanoids, nonflavanoid_phenols, proanthocynains, color_intensity, hue, od280/od315_of_diluted_wines, proline.
 # from sklearn import datasets
 Digunakan untuk mengimport dataset dari sklearn
