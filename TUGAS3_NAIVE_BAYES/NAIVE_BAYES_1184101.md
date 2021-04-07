@@ -33,3 +33,5 @@ Digunakan untuk mencoba model menggunakan set data training
 Digunakan untuk prediksi respon untuk set data testing
 # print("Accuracy:",metrics.accuracy_score(y_test, y_pred))
 Mencetak seberapa sering pengklasifikasian benar pada akurasi model
+# output
+Hasil dari pembahasan diatas menggunakan metode Naive Bayes adalah mendefinisikan wine. untuk 0 mendefinisikan layaknya wine untuk dikonsumsi dan 1 mendefinisikan wine tidak laya untuk dikonsumsi. 
